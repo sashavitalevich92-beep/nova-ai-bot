@@ -1,1 +1,1 @@
-﻿web: gunicorn wsgi:app --bind 0.0.0.0:
+﻿web: gunicorn main:app --bind 0.0.0.0:
