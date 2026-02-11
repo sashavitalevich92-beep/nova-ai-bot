@@ -1,6 +1,22 @@
-﻿.env
-*.log
+﻿# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Файлы с ключами
+.env
+*.env
+
+# Кэш Python
 __pycache__/
 *.pyc
-venv/
-bot.log
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
