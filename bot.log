@@ -1,0 +1,310 @@
+2026-02-12 11:02:46,214 - __main__ - ERROR - ❌ BOT_TOKEN не найден!
+2026-02-12 11:08:37,479 - __main__ - ERROR - ❌ BOT_TOKEN не найден!
+2026-02-12 11:23:36,866 - __main__ - INFO - 🚀 Бот запускается...
+2026-02-12 11:23:37,568 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 11:23:37,650 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 11:23:56,515 - aiogram.event - INFO - Update id=671957797 is handled. Duration 765 ms by bot id=8253186876
+2026-02-12 11:24:10,463 - aiogram.event - INFO - Update id=671957798 is handled. Duration 719 ms by bot id=8253186876
+2026-02-12 11:24:38,704 - aiogram.event - INFO - Update id=671957799 is handled. Duration 3219 ms by bot id=8253186876
+2026-02-12 11:25:02,316 - aiogram.event - INFO - Update id=671957800 is handled. Duration 734 ms by bot id=8253186876
+2026-02-12 11:25:23,730 - aiogram.event - INFO - Update id=671957801 is handled. Duration 1813 ms by bot id=8253186876
+2026-02-12 11:25:33,669 - aiogram.event - INFO - Update id=671957802 is handled. Duration 125 ms by bot id=8253186876
+2026-02-12 11:33:37,058 - aiogram.event - INFO - Update id=671957803 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:33:41,537 - aiogram.event - INFO - Update id=671957804 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:33:42,934 - aiogram.event - INFO - Update id=671957805 is not handled. Duration 15 ms by bot id=8253186876
+2026-02-12 11:33:45,334 - aiogram.event - INFO - Update id=671957807 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:33:45,551 - aiogram.event - INFO - Update id=671957806 is handled. Duration 1063 ms by bot id=8253186876
+2026-02-12 11:33:48,551 - aiogram.event - INFO - Update id=671957808 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:33:50,643 - aiogram.event - INFO - Update id=671957809 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:33:51,558 - aiogram.event - INFO - Update id=671957810 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:33:52,898 - aiogram.event - INFO - Update id=671957811 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:33:53,867 - aiogram.event - INFO - Update id=671957812 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:33:59,463 - aiogram.event - INFO - Update id=671957813 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:34:00,992 - aiogram.event - INFO - Update id=671957814 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:34:02,850 - aiogram.event - INFO - Update id=671957815 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:34:03,275 - aiogram.event - INFO - Update id=671957816 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:34:04,383 - aiogram.event - INFO - Update id=671957817 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:35:42,573 - aiogram.event - INFO - Update id=671957818 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:35:44,321 - aiogram.event - INFO - Update id=671957819 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:35:44,698 - aiogram.event - INFO - Update id=671957820 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:35:45,909 - aiogram.event - INFO - Update id=671957821 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:35:47,041 - aiogram.event - INFO - Update id=671957822 is not handled. Duration 0 ms by bot id=8253186876
+2026-02-12 11:49:54,653 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 11:49:54,653 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 11:54:01,119 - __main__ - INFO - ==================================================
+2026-02-12 11:54:01,120 - __main__ - INFO - 🚀 Запуск бота NOVA AI с интеграцией ЮKassa
+2026-02-12 11:54:01,121 - __main__ - INFO - ==================================================
+2026-02-12 11:54:01,542 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot (NOVA AI)
+2026-02-12 11:54:01,543 - __main__ - INFO - 🆔 ID бота: 8253186876
+2026-02-12 11:54:01,916 - __main__ - INFO - ✅ Вебхук удален, используем поллинг
+2026-02-12 11:54:01,916 - __main__ - INFO - 🔄 Запускаем поллинг...
+2026-02-12 11:54:01,917 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 11:54:02,309 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 11:54:38,159 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 11:54:39,715 - aiogram.event - INFO - Update id=671957823 is handled. Duration 1563 ms by bot id=8253186876
+2026-02-12 11:54:53,961 - aiogram.event - INFO - Update id=671957824 is handled. Duration 625 ms by bot id=8253186876
+2026-02-12 11:55:00,933 - aiogram.event - INFO - Update id=671957825 is handled. Duration 421 ms by bot id=8253186876
+2026-02-12 11:55:04,165 - aiogram.event - INFO - Update id=671957826 is handled. Duration 515 ms by bot id=8253186876
+2026-02-12 11:55:06,127 - aiogram.event - INFO - Update id=671957827 is handled. Duration 297 ms by bot id=8253186876
+2026-02-12 11:55:08,794 - aiogram.event - INFO - Update id=671957828 is handled. Duration 109 ms by bot id=8253186876
+2026-02-12 11:55:16,618 - __main__ - INFO - 📊 Профиль пользователя 5024281589, баланс: 150
+2026-02-12 11:55:16,619 - aiogram.event - INFO - Update id=671957829 is handled. Duration 1125 ms by bot id=8253186876
+2026-02-12 11:55:22,155 - __main__ - INFO - 💰 Меню токенов для пользователя 5024281589
+2026-02-12 11:55:22,156 - aiogram.event - INFO - Update id=671957830 is handled. Duration 780 ms by bot id=8253186876
+2026-02-12 12:05:45,512 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:05:45,513 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 12:05:45,778 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 12:08:58,963 - __main__ - INFO - ============================================================
+2026-02-12 12:08:58,963 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI С СИНИМ МЕНЮ
+2026-02-12 12:08:58,964 - __main__ - INFO - ============================================================
+2026-02-12 12:08:59,310 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot (NOVA AI)
+2026-02-12 12:08:59,311 - __main__ - INFO - 🆔 ID бота: 8253186876
+2026-02-12 12:08:59,750 - __main__ - INFO - ✅ Синее меню приложения с иконками установлено
+2026-02-12 12:09:00,259 - __main__ - INFO - ✅ Вебхук удален, используем поллинг
+2026-02-12 12:09:00,260 - __main__ - INFO - 🔄 Запускаем поллинг...
+2026-02-12 12:09:00,260 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 12:09:00,641 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:09:13,506 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 12:09:15,066 - aiogram.event - INFO - Update id=671957831 is handled. Duration 1561 ms by bot id=8253186876
+2026-02-12 12:09:48,528 - aiogram.event - INFO - Update id=671957832 is handled. Duration 733 ms by bot id=8253186876
+2026-02-12 12:22:04,010 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:22:04,011 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 12:22:04,271 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 12:24:31,251 - __main__ - INFO - ==================================================
+2026-02-12 12:24:31,252 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI
+2026-02-12 12:24:31,252 - __main__ - INFO - ==================================================
+2026-02-12 12:24:32,348 - __main__ - INFO - ✅ Синее меню команд установлено
+2026-02-12 12:24:32,435 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 12:24:33,111 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 12:24:33,194 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:24:54,983 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 12:24:56,658 - aiogram.event - INFO - Update id=671957833 is handled. Duration 1671 ms by bot id=8253186876
+2026-02-12 12:25:32,525 - aiogram.event - INFO - Update id=671957834 is handled. Duration 906 ms by bot id=8253186876
+2026-02-12 12:28:57,670 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 12:28:57,671 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:31:56,126 - __main__ - INFO - ==================================================
+2026-02-12 12:31:56,126 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI
+2026-02-12 12:31:56,127 - __main__ - INFO - ==================================================
+2026-02-12 12:31:56,910 - __main__ - INFO - ✅ Синее меню команд установлено
+2026-02-12 12:31:56,996 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 12:31:57,384 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 12:31:57,773 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:32:03,775 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 12:32:05,313 - aiogram.event - INFO - Update id=671957835 is handled. Duration 1546 ms by bot id=8253186876
+2026-02-12 12:32:11,525 - aiogram.event - INFO - Update id=671957836 is handled. Duration 110 ms by bot id=8253186876
+2026-02-12 12:32:14,184 - aiogram.event - INFO - Update id=671957837 is handled. Duration 436 ms by bot id=8253186876
+2026-02-12 12:32:17,645 - aiogram.event - INFO - Update id=671957838 is handled. Duration 656 ms by bot id=8253186876
+2026-02-12 12:33:31,846 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:33:31,846 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 12:37:40,340 - __main__ - INFO - ==================================================
+2026-02-12 12:37:40,340 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI
+2026-02-12 12:37:40,340 - __main__ - INFO - ==================================================
+2026-02-12 12:37:41,055 - __main__ - INFO - ✅ Синее меню команд установлено
+2026-02-12 12:37:41,137 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 12:37:41,526 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 12:37:41,604 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:38:06,306 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 12:38:07,764 - aiogram.event - INFO - Update id=671957839 is handled. Duration 1468 ms by bot id=8253186876
+2026-02-12 12:39:46,834 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:39:46,835 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 12:41:57,943 - __main__ - INFO - ==================================================
+2026-02-12 12:41:57,944 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI
+2026-02-12 12:41:57,944 - __main__ - INFO - ==================================================
+2026-02-12 12:41:59,017 - __main__ - INFO - ✅ Синее меню команд установлено
+2026-02-12 12:41:59,103 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 12:41:59,776 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 12:41:59,859 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:42:06,630 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 12:42:07,818 - aiogram.event - INFO - Update id=671957842 is handled. Duration 1186 ms by bot id=8253186876
+2026-02-12 12:44:10,894 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:44:10,894 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 12:55:49,839 - __main__ - INFO - ==================================================
+2026-02-12 12:55:49,839 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI
+2026-02-12 12:55:49,840 - __main__ - INFO - ==================================================
+2026-02-12 12:55:50,585 - __main__ - INFO - ✅ Синее меню команд установлено
+2026-02-12 12:55:50,670 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 12:55:51,058 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 12:55:51,140 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 12:56:23,265 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 12:56:24,761 - aiogram.event - INFO - Update id=671957843 is handled. Duration 1484 ms by bot id=8253186876
+2026-02-12 12:58:31,534 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 12:58:33,697 - aiogram.event - INFO - Update id=671957844 is handled. Duration 2156 ms by bot id=8253186876
+2026-02-12 13:06:38,805 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 13:06:41,010 - aiogram.event - INFO - Update id=671957845 is handled. Duration 2202 ms by bot id=8253186876
+2026-02-12 13:07:07,806 - aiogram.event - INFO - Update id=671957846 is handled. Duration 985 ms by bot id=8253186876
+2026-02-12 13:09:28,201 - aiogram.event - INFO - Update id=671957847 is handled. Duration 734 ms by bot id=8253186876
+2026-02-12 13:09:33,975 - aiogram.event - INFO - Update id=671957848 is handled. Duration 406 ms by bot id=8253186876
+2026-02-12 13:14:49,306 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:14:49,307 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 13:21:46,691 - __main__ - INFO - ============================================================
+2026-02-12 13:21:46,692 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI С ПОДДЕРЖКОЙ
+2026-02-12 13:21:46,692 - __main__ - INFO - ============================================================
+2026-02-12 13:21:47,154 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 13:21:47,154 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 13:21:47,540 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 13:21:47,925 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:21:56,720 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 13:21:57,803 - aiogram.event - INFO - Update id=671957849 is handled. Duration 1078 ms by bot id=8253186876
+2026-02-12 13:22:35,313 - aiogram.event - INFO - Update id=671957850 is handled. Duration 750 ms by bot id=8253186876
+2026-02-12 13:26:26,182 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:26:26,182 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 13:26:26,441 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 13:30:30,637 - __main__ - INFO - ============================================================
+2026-02-12 13:30:30,637 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 13:30:30,638 - __main__ - INFO - ============================================================
+2026-02-12 13:30:31,090 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 13:30:31,090 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 13:30:31,504 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 13:30:31,886 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 13:30:32,305 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:30:37,869 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 13:30:38,899 - aiogram.event - INFO - Update id=671957851 is handled. Duration 1031 ms by bot id=8253186876
+2026-02-12 13:30:51,441 - aiogram.event - INFO - Update id=671957852 is handled. Duration 718 ms by bot id=8253186876
+2026-02-12 13:31:11,894 - aiogram.event - INFO - Update id=671957853 is handled. Duration 0 ms by bot id=8253186876
+2026-02-12 13:31:23,895 - aiogram.event - INFO - Update id=671957854 is handled. Duration 0 ms by bot id=8253186876
+2026-02-12 13:31:27,472 - aiogram.event - INFO - Update id=671957855 is handled. Duration 0 ms by bot id=8253186876
+2026-02-12 13:31:29,647 - aiogram.event - INFO - Update id=671957856 is handled. Duration 0 ms by bot id=8253186876
+2026-02-12 13:37:03,416 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 13:37:03,416 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:37:03,673 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 13:39:21,614 - __main__ - INFO - ============================================================
+2026-02-12 13:39:21,614 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 13:39:21,615 - __main__ - INFO - ============================================================
+2026-02-12 13:39:21,959 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 13:39:21,959 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 13:39:22,384 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 13:39:22,466 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 13:39:23,432 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:42:47,321 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 13:42:48,870 - aiogram.event - INFO - Update id=671957857 is handled. Duration 1547 ms by bot id=8253186876
+2026-02-12 13:49:08,426 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 13:49:09,473 - aiogram.event - INFO - Update id=671957858 is handled. Duration 1046 ms by bot id=8253186876
+2026-02-12 13:50:52,430 - aiogram.event - INFO - Update id=671957859 is handled. Duration 922 ms by bot id=8253186876
+2026-02-12 13:50:58,589 - aiogram.event - INFO - Update id=671957860 is handled. Duration 2843 ms by bot id=8253186876
+2026-02-12 13:56:06,677 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 13:56:06,678 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:56:06,941 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 13:57:43,360 - __main__ - INFO - ============================================================
+2026-02-12 13:57:43,360 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 13:57:43,361 - __main__ - INFO - ============================================================
+2026-02-12 13:57:43,688 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 13:57:43,688 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 13:57:44,124 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 13:57:44,202 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 13:57:44,981 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:57:49,548 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 13:57:50,557 - aiogram.event - INFO - Update id=671957862 is handled. Duration 1000 ms by bot id=8253186876
+2026-02-12 13:57:56,406 - aiogram.event - INFO - Update id=671957863 is handled. Duration 1375 ms by bot id=8253186876
+2026-02-12 13:58:02,745 - aiogram.event - INFO - Update id=671957864 is handled. Duration 703 ms by bot id=8253186876
+2026-02-12 13:58:17,226 - aiogram.event - INFO - Update id=671957865 is handled. Duration 781 ms by bot id=8253186876
+2026-02-12 13:58:21,391 - aiogram.event - INFO - Update id=671957866 is handled. Duration 703 ms by bot id=8253186876
+2026-02-12 13:58:53,198 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 13:58:53,199 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 13:58:53,453 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 14:28:52,773 - __main__ - INFO - ============================================================
+2026-02-12 14:28:52,774 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 14:28:52,774 - __main__ - INFO - ============================================================
+2026-02-12 14:28:53,101 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 14:28:53,101 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 14:28:53,498 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 14:28:53,576 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 14:28:54,546 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 14:29:32,332 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 14:29:33,962 - aiogram.event - INFO - Update id=671957868 is handled. Duration 1625 ms by bot id=8253186876
+2026-02-12 14:29:38,579 - aiogram.event - INFO - Update id=671957869 is handled. Duration 1031 ms by bot id=8253186876
+2026-02-12 14:29:41,433 - aiogram.event - INFO - Update id=671957870 is handled. Duration 750 ms by bot id=8253186876
+2026-02-12 14:30:04,323 - aiogram.event - INFO - Update id=671957871 is handled. Duration 1264 ms by bot id=8253186876
+2026-02-12 14:30:13,613 - aiogram.event - INFO - Update id=671957872 is handled. Duration 672 ms by bot id=8253186876
+2026-02-12 14:30:23,446 - aiogram.event - INFO - Update id=671957873 is handled. Duration 655 ms by bot id=8253186876
+2026-02-12 14:36:45,268 - __main__ - INFO - ============================================================
+2026-02-12 14:36:45,268 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 14:36:45,269 - __main__ - INFO - ============================================================
+2026-02-12 14:36:45,706 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 14:36:45,707 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 14:36:46,114 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 14:36:46,495 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 14:36:46,878 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 14:37:14,078 - aiogram.event - INFO - Update id=671957874 is handled. Duration 937 ms by bot id=8253186876
+2026-02-12 14:37:30,256 - aiogram.event - INFO - Update id=671957875 is handled. Duration 905 ms by bot id=8253186876
+2026-02-12 14:37:36,759 - aiogram.event - INFO - Update id=671957876 is handled. Duration 703 ms by bot id=8253186876
+2026-02-12 14:43:51,192 - __main__ - INFO - ============================================================
+2026-02-12 14:43:51,193 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 14:43:51,193 - __main__ - INFO - ============================================================
+2026-02-12 14:43:51,633 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 14:43:51,634 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 14:43:52,032 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 14:43:52,418 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 14:43:52,796 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 14:44:05,144 - aiogram.event - INFO - Update id=671957877 is handled. Duration 1250 ms by bot id=8253186876
+2026-02-12 14:45:28,011 - __main__ - INFO - ============================================================
+2026-02-12 14:45:28,011 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 14:45:28,011 - __main__ - INFO - ============================================================
+2026-02-12 14:45:28,355 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 14:45:28,355 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 14:45:28,758 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 14:45:28,840 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 14:45:29,618 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 14:45:32,628 - aiogram.event - INFO - Update id=671957879 is handled. Duration 765 ms by bot id=8253186876
+2026-02-12 14:47:45,613 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 14:47:46,620 - aiogram.event - INFO - Update id=671957880 is handled. Duration 1000 ms by bot id=8253186876
+2026-02-12 14:47:51,744 - aiogram.event - INFO - Update id=671957881 is handled. Duration 1062 ms by bot id=8253186876
+2026-02-12 14:47:54,046 - aiogram.event - INFO - Update id=671957882 is handled. Duration 718 ms by bot id=8253186876
+2026-02-12 14:50:01,343 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 14:50:01,343 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 14:50:01,596 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 14:57:44,910 - __main__ - INFO - ============================================================
+2026-02-12 14:57:44,910 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 14:57:44,911 - __main__ - INFO - ============================================================
+2026-02-12 14:57:45,360 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 14:57:45,360 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 14:57:45,770 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 14:57:46,152 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 14:57:46,535 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 14:58:08,188 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 14:58:09,238 - aiogram.event - INFO - Update id=671957888 is handled. Duration 1047 ms by bot id=8253186876
+2026-02-12 14:58:13,555 - aiogram.event - INFO - Update id=671957889 is handled. Duration 1110 ms by bot id=8253186876
+2026-02-12 14:58:16,215 - aiogram.event - INFO - Update id=671957890 is handled. Duration 703 ms by bot id=8253186876
+2026-02-12 14:58:48,045 - aiogram.event - INFO - Update id=671957891 is handled. Duration 905 ms by bot id=8253186876
+2026-02-12 15:00:55,842 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 15:00:55,843 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 15:00:56,098 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 15:04:13,791 - __main__ - INFO - ============================================================
+2026-02-12 15:04:13,791 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 15:04:13,791 - __main__ - INFO - ============================================================
+2026-02-12 15:04:14,241 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 15:04:14,242 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 15:04:14,648 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 15:04:15,040 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 15:04:15,412 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 15:04:23,329 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 15:04:24,402 - aiogram.event - INFO - Update id=671957893 is handled. Duration 1062 ms by bot id=8253186876
+2026-02-12 15:04:28,342 - aiogram.event - INFO - Update id=671957894 is handled. Duration 1094 ms by bot id=8253186876
+2026-02-12 15:04:32,538 - aiogram.event - INFO - Update id=671957895 is handled. Duration 702 ms by bot id=8253186876
+2026-02-12 15:07:51,585 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 15:07:51,586 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 15:07:51,837 - __main__ - INFO - 🛑 Бот остановлен пользователем
+2026-02-12 15:10:29,081 - __main__ - INFO - ============================================================
+2026-02-12 15:10:29,082 - __main__ - INFO - 🚀 ЗАПУСК БОТА NOVA AI СО СТАТИСТИКОЙ
+2026-02-12 15:10:29,082 - __main__ - INFO - ============================================================
+2026-02-12 15:10:29,809 - __main__ - INFO - 🤖 Бот: @EldritchCode_bot
+2026-02-12 15:10:29,810 - __main__ - INFO - 👑 Админ ID: 5024281589
+2026-02-12 15:10:30,353 - __main__ - INFO - ✅ Синее меню установлено
+2026-02-12 15:10:30,438 - aiogram.dispatcher - INFO - Start polling
+2026-02-12 15:10:30,519 - aiogram.dispatcher - INFO - Run polling for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 15:11:00,931 - __main__ - INFO - 🚀 /start от 5024281589 (АЛЕКСАНДР)
+2026-02-12 15:11:02,589 - aiogram.event - INFO - Update id=671957896 is handled. Duration 1656 ms by bot id=8253186876
+2026-02-12 15:11:14,185 - aiogram.event - INFO - Update id=671957897 is handled. Duration 1155 ms by bot id=8253186876
+2026-02-12 15:11:18,035 - aiogram.event - INFO - Update id=671957898 is handled. Duration 1171 ms by bot id=8253186876
+2026-02-12 15:57:31,906 - aiogram.event - INFO - Update id=671957899 is handled. Duration 1186 ms by bot id=8253186876
+2026-02-12 16:21:35,284 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-02-12 16:21:35,285 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8253186876)
+2026-02-12 16:21:47,351 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8253186876)
+2026-02-12 16:32:50,911 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-02-12 16:32:50,912 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8253186876)
+2026-02-12 16:33:04,186 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8253186876)
+2026-02-12 16:37:04,128 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-02-12 16:37:04,129 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8253186876)
+2026-02-12 16:37:16,207 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8253186876)
+2026-02-12 16:50:32,678 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-12 16:50:32,679 - aiogram.dispatcher - INFO - Polling stopped for bot @EldritchCode_bot id=8253186876 - 'NOVA AI'
+2026-02-12 16:50:32,932 - __main__ - INFO - 🛑 Бот остановлен пользователем
