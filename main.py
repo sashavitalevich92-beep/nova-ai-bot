@@ -1,3 +1,6 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
 from fastapi import FastAPI
 from yookassa import Configuration, Payment
 import uuid
@@ -5,8 +8,8 @@ import uuid
 app = FastAPI()
 
 # ========== ТВОИ РЕАЛЬНЫЕ КЛЮЧИ (ВСТАВЬ ИХ!) ==========
-Configuration.account_id = '1201823'
-Configuration.secret_key = 'live_AuMyxvP3pIbIV78tQoTz2Vb0Hii8oLlQMeu8M3_EMrY'
+Configuration.account_id = os.getenv("YOOKASSA_SHOP_ID")
+Configuration.secret_key = os.getenv("YOOKASSA_SECRET_KEY")
 # =====================================================
 
 @app.get('/')
